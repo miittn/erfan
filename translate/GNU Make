@@ -29,7 +29,8 @@ GNU Make also has a few simple features that are very convenient. For example, t
 
 However, the most important difference between GNU Make and most versions of Make is that GNU Make is free software.
 
-Makefiles And Conventions
+
+فایل های Make و قرارداد
 We have developed conventions for how to write Makefiles, which all GNU packages ought to follow. It is a good idea to follow these conventions in your program even if you don't intend it to be GNU software, so that users will be able to build your package just like many other packages, and will not need to learn anything special before doing so.
 
 These conventions are found in the chapter ``Makefile conventions'' (147 k characters) of the GNU Coding Standards (147 k characters).
