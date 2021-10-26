@@ -65,9 +65,9 @@ help-make برای کمک به کار عمومی و گفتگو است
 
 تلاش برای آخرین انتشار آزمایشی (وقتی در دسترس است) همیشه قدردانی شونده است.انتشار آرمایشی make  میتواند در http://alpha.gnu.org/gnu/make/ (via HTTP) و ftp://alpha.gnu.org/gnu/make/ (via FTP).
 پیدا شود
-Development
+
 توسعه
-For development sources, issue trackers, and other information, please see the Make project page at savannah.gnu.org.
+
 برای توسعه منابع و مسله یاب ها  و دیگر اطلاعات لطفا صفحه پروژه make در savannah.gnu.org. ببینید.
 Translating Make
 To translate Make's messages into other languages, please see the Translation Project page for Make. If you have a new translation of the message strings, or updates to the existing strings, please have the changes made in this repository. Only translations from this site will be incorporated into Make. For more information, see the Translation Project.
